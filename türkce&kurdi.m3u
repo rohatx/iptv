@@ -1,10 +1,19 @@
 #EXTM3U
+# --- Kurdi ---
 #EXTINF:-1 tvg-id="MedMuzik.tr@SD" tvg-logo="https://i.imgur.com/gtUFmCD.png" group-title="Kurdi",Med Muzik
 http://54.36.110.140/live3/live3.m3u8
 #EXTINF:-1 tvg-id="SterkTV.be@SD" tvg-logo="https://i.imgur.com/bIheNAI.png" group-title="Kurdi",Stêrk TV
 https://muzkurd.com/sterktv/sterk/playlist.m3u8
 #EXTINF:-1 tvg-id="TRTKurdi.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TRT_Kurd%C3%AE_logo.svg/960px-TRT_Kurd%C3%AE_logo.svg.png" group-title="Kurdi",TRT Kurdî
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="MedyaHaber.tr@SD" tvg-logo="https://i.imgur.com/Wp7u7hM.png" group-title="Kurdi",Medya Haber
+https://sr01.medyahaber.info/medyahaber/index.m3u8
+
+#EXTINF:-1 tvg-id="KRTTv.tr@SD" tvg-logo="https://i.imgur.com/r6H5qZ5.png" group-title="Kurdi",KRT TV
+https://krt-live.daioncdn.net/krttv/krttv.m3u8
+
+# --- Türkce ---
 
 #EXTINF:-1 tvg-id="ATV.tr@SD" tvg-logo="https://i.imgur.com/HyVUwFC.png" group-title="Türkce",ATV
 http://89.187.191.41/ATV-HD-TR/video.m3u8
@@ -18,3 +27,14 @@ https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTHaber.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TRT_Haber_Eyl%C3%BCl_2020_Logo.svg/960px-TRT_Haber_Eyl%C3%BCl_2020_Logo.svg.png" group-title="Türkce",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="ShowTV.tr@SD" tvg-logo="https://i.imgur.com/u7q7F6p.png" group-title="Türkce",Show TV
+https://ciner-live.daioncdn.net/showtv/showtv.m3u8
+#EXTINF:-1 tvg-id="StarTV.tr@SD" tvg-logo="https://i.imgur.com/7S8PzC4.png" group-title="Türkce",Star TV
+https://dogus-live.daioncdn.net/startv/startv.m3u8
+#EXTINF:-1 tvg-id="NTV.tr@SD" tvg-logo="https://i.imgur.com/S8rIuLq.png" group-title="Türkce",NTV
+https://dogus-live.daioncdn.net/ntv/ntv.m3u8
+#EXTINF:-1 tvg-id="CNNTurk.tr@SD" tvg-logo="https://i.imgur.com/f7Vf9A6.png" group-title="Türkce",CNN Türk
+https://demiroren.daioncdn.net/cnnturk/cnnturk.m3u8
+#EXTINF:-1 tvg-id="AHaber.tr@SD" tvg-logo="https://i.imgur.com/YAn9K0P.png" group-title="Türkce",A Haber
+https://turkuvaz-live.daioncdn.net/ahaber/playlist.m3u8
