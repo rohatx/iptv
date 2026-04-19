@@ -7,11 +7,14 @@ https://muzkurd.com/sterktv/sterk/playlist.m3u8
 #EXTINF:-1 tvg-id="TRTKurdi.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TRT_Kurd%C3%AE_logo.svg/960px-TRT_Kurd%C3%AE_logo.svg.png" group-title="Kurdi",TRT Kurdî
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="MedyaHaber.tr@SD" tvg-logo="https://i.imgur.com/Wp7u7hM.png" group-title="Kurdi",Medya Haber
-https://sr01.medyahaber.info/medyahaber/index.m3u8
-
-#EXTINF:-1 tvg-id="KRTTv.tr@SD" tvg-logo="https://i.imgur.com/r6H5qZ5.png" group-title="Kurdi",KRT TV
-https://krt-live.daioncdn.net/krttv/krttv.m3u8
+#EXTINF:-1 tvg-name="TRT Kurdi TV" tvg-logo="https://kurdtvs.net/uploads/trtkurdi.png" group-title="News General Music Turkish",TRT Kurdi TV
+https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="Ronahi TV" tvg-logo="https://kurdtvs.net/uploads/ronahi.png" group-title="News General Music Local",Ronahi TV
+https://iko-streamline-live1.akamaized.net/RonahiTV/master.m3u8
+#EXTINF:-1 tvg-name="Kurdsat Tv" tvg-logo="https://kurdtvs.net/uploads/kurdsat.png" group-title="News General Local",Kurdsat Tv
+https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8
+#EXTINF:-1,KURD ?MEDYA HABER TV
+http://line.4k-beast.co:80/c0:23:8d:96:15:22/44D11F/3871
 
 # --- Türkce ---
 
@@ -28,13 +31,13 @@ https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTHaber.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TRT_Haber_Eyl%C3%BCl_2020_Logo.svg/960px-TRT_Haber_Eyl%C3%BCl_2020_Logo.svg.png" group-title="Türkce",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="ShowTV.tr@SD" tvg-logo="https://i.imgur.com/u7q7F6p.png" group-title="Türkce",Show TV
-https://ciner-live.daioncdn.net/showtv/showtv.m3u8
-#EXTINF:-1 tvg-id="StarTV.tr@SD" tvg-logo="https://i.imgur.com/7S8PzC4.png" group-title="Türkce",Star TV
-https://dogus-live.daioncdn.net/startv/startv.m3u8
-#EXTINF:-1 tvg-id="NTV.tr@SD" tvg-logo="https://i.imgur.com/S8rIuLq.png" group-title="Türkce",NTV
-https://dogus-live.daioncdn.net/ntv/ntv.m3u8
-#EXTINF:-1 tvg-id="CNNTurk.tr@SD" tvg-logo="https://i.imgur.com/f7Vf9A6.png" group-title="Türkce",CNN Türk
-https://demiroren.daioncdn.net/cnnturk/cnnturk.m3u8
-#EXTINF:-1 tvg-id="AHaber.tr@SD" tvg-logo="https://i.imgur.com/YAn9K0P.png" group-title="Türkce",A Haber
-https://turkuvaz-live.daioncdn.net/ahaber/playlist.m3u8
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" group-title="Ulusal",Show TV
+https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="http://assets.tvcdn.net/0c5204fb-e613-4084-b300-8cdcc46309f9.png" group-title="Ulusal",Star TV
+http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
+#EXTINF:-1 tvg-id="NTV.tr" tvg-logo="http://assets.tvcdn.net/b2aa3114-53bd-4ff5-81ed-af75a28e651f.png" group-title="Haber",NTV
+http://dygvideo.dygdigital.com/live/hls/ntv4puhu?m3u8
+#EXTINF:-1 tvg-id="Kanal7.tr" tvg-logo="http://assets.tvcdn.net/1125734c-3525-4390-b8ed-c50380c70e4d.png" group-title="Ulusal",Kanal 7
+https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
+#EXTINF:-1 tvg-id="Kanal7.tr" tvg-logo="https://i.imgur.com/wlfyj5l.png" group-title="Ulusal - Yurt Disi",Kanal 7 Avrupa
+https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
